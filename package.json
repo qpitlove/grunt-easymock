@@ -41,6 +41,6 @@
     "easymock"
   ],
   "dependencies": {
-    "easymock": "~0.2.6"
+    "easymock": "qpitlove/node-easymock"
   }
 }
